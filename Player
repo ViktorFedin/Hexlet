@@ -1,0 +1,7 @@
+class Player {
+
+int name; 
+
+int figure; 
+
+}
