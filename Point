@@ -3,3 +3,5 @@ class Point {
 String x;	
 
 String y;	
+
+}
